@@ -1,0 +1,5 @@
+0:music,film,album
+1:companies,euro,company
+2:space,researchers,scientists
+3:yankees,cup,league
+4:republicans,senator,senate
