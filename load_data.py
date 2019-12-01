@@ -35,7 +35,7 @@ def read_file(data_dir, with_evaluation):
             elif data_dir == './yelp':
                 data.append(row[1])
                 target.append(int(row[0]) - 1)
-            elif data_dir == "./nyt":
+            else:
                 data.append(row[1])
                 target.append(label_ind_dict[row[2]])
 
