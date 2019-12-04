@@ -68,7 +68,7 @@ if __name__ == "__main__":
 
     ### Basic settings ###
     # dataset selection: AG's News (default) and Yelp Review
-    parser.add_argument('--dataset', default='arxiv', choices=['agnews', 'yelp', 'nyt', 'arxiv'])
+    parser.add_argument('--dataset', default='20news', choices=['agnews', 'yelp', 'nyt', 'arxiv', '20news'])
     # neural model selection: Convolutional Neural Network (default) and Hierarchical Attention Network
     parser.add_argument('--model', default='cnn', choices=['cnn', 'rnn'])
     # weak supervision selection: label surface names (default), class-related keywords and labeled documents
