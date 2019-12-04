@@ -5,7 +5,7 @@
 4:apple,mac,centris,powerbook
 5:motif,x11r5,xterm,window
 6:sale,offer,shipping,forsale
-7:car,mustang,V6
+7:car,mustang
 8:bike,dod,bikes
 9:baseball
 10:hockey,nhl
